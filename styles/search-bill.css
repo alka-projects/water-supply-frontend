@@ -28,3 +28,10 @@
 .no-btn{
     border: none;
 }
+.price-table{
+    background-color: #EEEFF1;
+}
+.price-table tr{
+    line-height: 1.5%;
+    font-size: small;
+}
