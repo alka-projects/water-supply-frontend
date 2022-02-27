@@ -18,12 +18,14 @@
     background-color: #EEEFF1 !important;
     border: #11B061;
     border-radius: 30px;
+    /* width: 25%; */
 }
 .s-no{
     color: #186C74;
     border: 15px;
     background-color: #D0F0F2;
     font-weight: bold;
+    text-align: center;
 }
 .no-btn{
     border: none;

@@ -4,7 +4,7 @@
     border-radius: 15px;
 }
 .icon-back{
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 @import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
@@ -45,5 +45,23 @@ hr {
 }
 
 .number{
-    color: rgba(67, 140, 150) !important;
+    color:#11B061 !important;
 }
+.add{
+    color: #11B061 !important;
+    /* border-color: #11B061; */
+    border: 3px solid #11B061;
+/* box-sizing: border-box; */
+border-radius: 20px;
+}
+.add:hover{
+    color: white !important;
+    background-color:  #11B061 !important;
+    border: 3px solid #11B061;
+    /* box-sizing: border-box; */
+    border-radius: 20px;
+}
+/* .add-icon{
+    font-size: xx-small;
+    margin-top: -10px !important;
+} */
